@@ -1,4 +1,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-jakeandjane-181717?logo=github)](https://github.com/jakeandjane)
+[![CSDN](https://img.shields.io/badge/CSDN-Tao_Youyang-FC5531?logo=csdn&logoColor=white)](https://blog.csdn.net/m0_56487684?type=blog)
 
 我是一名电子信息硕士，研究方向为**算法工程、模型压缩与轻量化部署**，当前求职目标聚焦于：
 
