@@ -7,6 +7,7 @@ This repository is my GitHub portfolio website for AI application development ro
 - RAG and workflow automation
 - AI infra / model deployment / evaluation
 
+Demo: https://jakeandjane.github.io/Jake-Tao-Resume/
 ## Website structure
 
 - `contents/home.md`: personal summary and role positioning
